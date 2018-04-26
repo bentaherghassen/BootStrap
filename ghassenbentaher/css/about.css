@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu:700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/* About */
+.about-section {
+    padding: 4em 0;
+    font-family: 'Ubuntu Mono', monospace;
+    background-color: #E4F1FE;
+}
+.site-title  {
+    padding: 2em 0;
+
+}
+.site-title h3 {
+    font-size: 3.5em;
+    color: black;
+    font-family: 'Ubuntu Mono', monospace;
+    font-weight: 700;
+}
+.site-title p {
+    font-size: 1.1em;
+    color: #333333;
+    line-height: 1.8em;
+    margin-top: 0.5em;
+}
+
+.about-inner-column h4 {
+    font-size:1.5em;
+    color: #2C3E50;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.about-inner-column p {
+    font-size: 1.1em;
+    color: #333333;
+    line-height: 1.8em;
+    margin: 1em 0 0;
+}
+
+.about-inner-column ul li a {
+    color: #333333;
+    font-size: 1.1em;
+    padding-left: 2em;
+}
+.about-right img {
+    width: 100%;
+    padding-right: 50px;
+   
+}
